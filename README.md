@@ -12,5 +12,5 @@ Supplementary material complementing submitted article to Significance on the so
 Bibliographical references justifying the connections between alters and ego (Florence Nightingale). Go to each of the alter's hyperlink to find the specific references connecting them to other alters.
 | Alter  | Reference|
 | ------------- |------------- |
-| Henry Reeve  |[Cook, E.T. *The Life of Florence Nightingale vol.1.*](http://www.gutenberg.org/files/40057/40057-h/40057-h.htm)|
+| [Henry Reeve](https://github.com/altealo/HenryReeve/blob/master/README.md)  |[Cook, E.T. *The Life of Florence Nightingale vol.1.*](http://www.gutenberg.org/files/40057/40057-h/40057-h.htm)|
 | Helen Richardson  |[Bostridge, M. *Florence Nightingale: The woman and her legend.*](https://books.google.co.uk/books?id=OsCiBgAAQBAJ&lpg=PR334&pg=PP1#v=onepage&q&f=false)|
