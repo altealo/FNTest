@@ -8,7 +8,7 @@ Supplementary material complementing submitted article to Significance on the so
 
 # Florence Nightingale egonet
 
-https://www.finex.co/how-to-display-html-in-github/
+https://altealo.github.io/FNTest/fn.egonet.html
 
 # References
 Bibliographical references justifying, to the best of our knowledge, the connections between alters and ego (Florence Nightingale). 
