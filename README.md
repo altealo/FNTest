@@ -9,7 +9,7 @@ Supplementary material complementing submitted article to Significance on the so
 # Florence Nightingale egonet
 
 # References
-Bibliographical references justifying the connections between alters and ego (Florence Nightingale). 
+Bibliographical references justifying, to the best of our knowledge, the connections between alters and ego (Florence Nightingale). 
 
 Go to each of the alter's hyperlink to find the specific references connecting them to other alters.
 | Alter  | Reference|
