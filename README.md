@@ -8,6 +8,7 @@ Supplementary material complementing submitted article to Significance on the so
 
 # Florence Nightingale egonet
 
+Interactive version:
 https://altealo.github.io/FNTest/fn.egonet.html
 
 # References
