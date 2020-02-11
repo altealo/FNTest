@@ -18,7 +18,7 @@ Go to each of the alter's hyperlink to find the specific references connecting t
 | Alter  | Reference|
 | ------------- |------------- |
 | [Charles Babbage](https://github.com/altealo/CharlesBabbage/blob/master/README.md)  |[Collier, B. *The Little Engines that Could've: The Calculating Machines of Charles Babbage .*](http://robroy.dyndns.info/collier/)|
-| [Elizabeth Blackwell](https://github.com/altealo/ElizabethBlackwell/blob/master/README.md)  |[Blackwell, E. *Pioneer work in opening the medical profession to women. .Autobiographical sketches.*](https://digital.library.upenn.edu/women/blackwell/pioneer/pioneer.html)|
+| [Dr Elizabeth Blackwell](https://github.com/altealo/ElizabethBlackwell/blob/master/README.md)  |[Blackwell, E. *Pioneer work in opening the medical profession to women. .Autobiographical sketches.*](https://digital.library.upenn.edu/women/blackwell/pioneer/pioneer.html)|
 | [Henry/Harry Bonham-Carter](https://github.com/altealo/HenryBonhamCarter/blob/master/README.md)  |[Records of the Nightingale Fund Council. *Letters from Henry Bonham-Carter to Florence Nightingale.*](https://discovery.nationalarchives.gov.uk/details/r/5ec02ca4-84c0-4d87-9ae3-872be4572b41)|
 | [Hilary Bonham-Carter](https://github.com/altealo/HilaryBonhamCarter/blob/master/README.md) |[Bostridge, M. *Florence Nightingale: The woman and her legend.*](https://books.google.co.uk/books?id=OsCiBgAAQBAJ&lpg=PR334&pg=PP1#v=onepage&q&f=false)|
 | [William Bowman](https://github.com/altealo/WilliamBowman/blob/master/README.md)  |[Cope, Z. *Miss Florence Nightingale and the doctors.*](https://journals.sagepub.com/doi/pdf/10.1177/003591575604901108)|
