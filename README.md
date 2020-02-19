@@ -11,6 +11,7 @@ Supplementary material complementing submitted article to Significance on the so
 Interactive version:
 https://altealo.github.io/FNTest/fn.egonet.html
 
+Static version:
 ![Optional Text](https://github.com/altealo/FNTest/blob/master/fn.egonet-1.png)
 
 
