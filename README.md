@@ -13,6 +13,10 @@ https://altealo.github.io/FNTest/fn.egonet.html
 
 # Timeline
 ![Optional Text](https://github.com/pilarcacheiro/SNA_FN/blob/master/images/fn.timeline.png)
+
+# Brokerage roles
+![Optional Text](https://github.com/pilarcacheiro/SNA_FN/blob/master/images/brokerage.plot.png)
+
 # References
 Bibliographical references justifying, to the best of our knowledge, the connections between alters and ego (Florence Nightingale). 
 
