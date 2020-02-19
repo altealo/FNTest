@@ -6,7 +6,7 @@ Supplementary material complementing submitted article to Significance on the so
 
 [Pilar Cacheiro](https://github.com/pilarcacheiro)
 
-# Florence Nightingale egonet
+# Egonet
 
 Interactive version:
 https://altealo.github.io/FNTest/fn.egonet.html
