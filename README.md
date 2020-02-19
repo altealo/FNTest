@@ -11,7 +11,7 @@ Supplementary material complementing submitted article to Significance on the so
 Interactive version:
 https://altealo.github.io/FNTest/fn.egonet.html
 
-![Optional Text](https://github.com/pilarcacheiro/SNA_FN/blob/master/images/fn.egonet.emf)
+![Optional Text](https://github.com/altealo/FNTest/blob/master/fn.egonet-1.png)
 
 
 # Timeline
