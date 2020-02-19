@@ -11,6 +11,8 @@ Supplementary material complementing submitted article to Significance on the so
 Interactive version:
 https://altealo.github.io/FNTest/fn.egonet.html
 
+# Timeline
+![Optional Text](https://github.com/pilarcacheiro/SNA_FN/blob/master/images/timeline.png)
 # References
 Bibliographical references justifying, to the best of our knowledge, the connections between alters and ego (Florence Nightingale). 
 
