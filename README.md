@@ -1,5 +1,5 @@
 # Social Network Analysis - Florence Nightingale
-Supplementary material complementing submitted article to Significance magazine on the social networks of Florence Nightingale. 
+Supplementary material complementing submitted article to Significance magazine on the social networks of Florence Nightingale to celebrate the bicentenary of her birth. 
 
 # Contributors
 [Altea Lorenzo](https://github.com/altealo)
