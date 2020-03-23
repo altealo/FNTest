@@ -1,0 +1,14 @@
+# Lady Charlotte Canning connections
+Connections with other alters in the Florence Nightingale egonet.
+| Alter  | Reference|
+| ------------- |------------- |
+| [Selina Bracebridge](https://github.com/altealo/FNTest/blob/master/AltersReferences/SelinaBracebridge.md)  |[Vicinus, M. *Ever Yours, Florence Nightingale: Selected Letters.*](https://books.google.co.uk/books?id=jaK2lF6mfE8C&pg=PA117&lpg=PA117&dq=Lady+Charlotte+Canning+and+bracebridge&source=bl&ots=cRWXmqt_T2&sig=ACfU3U2Dl6HkS9YfarkhRZzJjduBHosRGA&hl=en&sa=X&ved=2ahUKEwimiZ2KqezkAhW9VBUIHVW6B3EQ6AEwD3oECAcQAQ#v=onepage&q=Lady%20Charlotte%20Canning%20and%20bracebridge&f=false)|
+| [Sir James Clark](https://github.com/altealo/FNTest/blob/master/AltersReferences/JamesClark.md)|[Shepherd, J.A. *The Crimean Doctors: A History of the British Medical Services in the Crimean War, Volume 2.*](https://books.google.co.uk/books?id=7GeAtb71p1wC&pg=PA441&lpg=PA441&dq=james+clark+and+Lady+Canning&source=bl&ots=VZzwcbqasd&sig=ACfU3U3vm2BGtQiO-IS5RQpONDPxXh4lIw&hl=en&sa=X&ved=2ahUKEwjz1Nmml-zkAhWLSxUIHW44DsYQ6AEwGHoECAYQAQ#v=onepage&q=james%20clark%20and%20Lady%20Canning&f=false)|
+| [Liz Herbert](https://github.com/altealo/FNTest/blob/master/AltersReferences/LizHerbert.md) |[McDonald, L. *Florence Nightingale: The Nightingale School.*](https://books.google.co.uk/books?id=EhnaAgAAQBAJ&pg=PA62&lpg=PA62&dq=mary+clarke+lady+charlotte+canning&source=bl&ots=ATm9o4agH4&sig=ACfU3U1u7fCRP3vv2GfCDEcbpFAzGEcvHw&hl=en&sa=X&ved=2ahUKEwjvw-HRouzkAhV5ThUIHYcOAI8Q6AEwEnoECAkQAQ#v=onepage&q=mary%20clarke%20lady%20charlotte%20canning&f=false)|
+| [Sidney Herbert](https://github.com/altealo/FNTest/blob/master/AltersReferences/SidneyHerbert.md)  |[Baly, M.E. &  Matthew,H. C. G. *Florence Nightingale in Oxford Dictionary of National Biography.*](http://mathshistory.st-andrews.ac.uk/DNB/Nightingale.html)|
+| [Richard Milnes](https://github.com/altealo/FNTest/blob/master/AltersReferences/RichardMilnes.md)  |[Wemyss, T. *The life, letters, and friendships of Richard Monckton Milnes, first lord Houghton.*](https://archive.org/details/lifelettersandf09reidgoog/page/n36/mode/2up/search/canning)|
+| [Parthenope Nightingale](https://github.com/altealo/FNTest/blob/master/AltersReferences/ParthenopeNightingale.md) |[Bostridge, M. *Florence Nightingale: The woman and her legend.*](https://books.google.co.uk/books?id=OsCiBgAAQBAJ&lpg=PR334&pg=PP1#v=onepage&q&f=false)|
+| [Lord Palmerston](https://github.com/altealo/FNTest/blob/master/AltersReferences/LordPalmerston.md)  |[Cracknell, E. *Clemency Canning: forgotten servant of empire.*](https://www.stgeorges-windsor.org/clemency-canning-forgotten-servant-of-empire/)|
+| [Queen Victoria](https://github.com/altealo/FNTest/blob/master/AltersReferences/QueenVictoria.md)  |[Wikipedia. *Charlotte_Canning,_Countess_Canning.*](https://en.wikipedia.org/wiki/Charlotte_Canning,_Countess_Canning)|
+
+
