@@ -12,6 +12,9 @@ Connections with other alters in the Florence Nightingale egonet.
 | [Mary Clarke/Mohl](https://github.com/altealo/FNTest/blob/master/AltersReferences/MaryClarke.md)|[Uglow, J. *Elizabeth Gaskell.*](https://en.wikipedia.org/wiki/Mary_Elizabeth_Mohl)|
 | [Parthenope Nightingale](https://github.com/altealo/FNTest/blob/master/AltersReferences/ParthenopeNightingale.md)|[Ibrahim, S. *An annotated edition of the letters of Arthur Hugh Clough to his American friends: Ralph Waldo Emerson, Charles Eliot Norton, James Norton, James Russell Lowell, Francis James Child and Henry Wadsworth Lonfellow, over the period 1847–1861.*](https://www.dora.dmu.ac.uk/xmlui/bitstream/handle/2086/11468/Susan%20Ibrahim%20e-thesis%20submission.pdf;sequence=1)|
 | [William Rathbone](https://github.com/altealo/FNTest/blob/master/AltersReferences/WilliamRathbone.md)|[Uglow, J. *Elizabeth Gaskell.*](https://books.google.co.uk/books?id=yyhvrv7tl2sC&pg=PT399&lpg=PT399&dq=JULIUS+MOHL+AND+HARRIET+MARTINEAU&source=bl&ots=HyFG8HZU7r&sig=ACfU3U2WkIYIK9cXzH5OmHP8sux9JVDiQg&hl=en&sa=X&ved=2ahUKEwjqiOnrkN7kAhUXRBUIHScKCbUQ6AEwBnoECAYQAQ#v=onepage&q=JULIUS%20MOHL%20AND%20HARRIET%20MARTINEAU&f=false)|
+| [Helen Taylor](https://github.com/altealo/FNTest/blob/master/AltersReferences/HelenTaylor.md)|[Manton, J. *Elizabeth Garrett Anderson.*](https://books.google.co.uk/books?id=8ql-DwAAQBAJ&pg=PT210&lpg=PT210&dq=helen+taylor+elizabeth+gaskell&source=bl&ots=Xh27alqUfm&sig=ACfU3U0-RG_ONtx1E00D4WqJ3XMnwAqEgA&hl=en&sa=X&ved=2ahUKEwj5wcO8yvzjAhXysHEKHcjyCvI4ChDoATAAegQICBAB#v=onepage&q=helen%20taylor%20elizabeth%20gaskell&f=false)|
+
+
 
 
 
