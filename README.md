@@ -24,6 +24,7 @@ Static version:
 Bibliographical references justifying, to the best of our knowledge, the connections between alters and ego (Florence Nightingale). 
 
 Go to each of the alter's hyperlink to find the specific references connecting them to other alters.
+
 | Alter  | Reference|
 | ------------- |------------- |
 | [Charles Babbage](https://github.com/altealo/FNTest/blob/master/AltersReferences/CharlesBabbage.md)  |[Collier, B. *The Little Engines that Could've: The Calculating Machines of Charles Babbage .*](http://robroy.dyndns.info/collier/)|
