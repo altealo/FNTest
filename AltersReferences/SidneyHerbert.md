@@ -3,6 +3,7 @@ Connections with other alters in the Florence Nightingale egonet.
 | Alter  | Reference|
 | ------------- |------------- |
 | [Dr William Bowman](https://github.com/altealo/FNTest/blob/master/AltersReferences/WilliamBowman.md)  |[Wellcome Institute. *Sidney Herbert.*](http://www.florence-nightingale-avenging-angel.co.uk/goldie/goldieitems/4_184.htm)|
+| [Charles Bracebridge](https://github.com/altealo/FNTest/blob/master/AltersReferences/CharlesBracebridge.md)  |[Wellcome Institute. *Sidney Herbert*](http://www.florence-nightingale-avenging-angel.co.uk/goldie/goldieitems/4_184.htm)|
 | [Lady Charlotte Canning](https://github.com/altealo/FNTest/blob/master/AltersReferences/LadyCharlotteCanning.md)  |[Baly, M.E. &  Matthew,H. C. G. *Florence Nightingale in Oxford Dictionary of National Biography.*](http://mathshistory.st-andrews.ac.uk/DNB/Nightingale.html)|
 | [Sir James Clark](https://github.com/altealo/FNTest/blob/master/AltersReferences/JamesClark.md)|[Wellcome Institute. *Sidney Herbert*](http://www.florence-nightingale-avenging-angel.co.uk/goldie/goldieitems/4_184.htm)|
 | [William Farr](https://github.com/altealo/FNTest/blob/master/AltersReferences/WilliamFarr.md)  |[Kopf, E.W. *Florence Nightingale as statistician.*](https://www.jstor.org/stable/2965763?seq=1#metadata_info_tab_contents)|
