@@ -4,6 +4,7 @@ Connections with other alters in the Florence Nightingale egonet.
 | Alter  | Reference|
 | ------------- |------------- |
 | [Charles Dickens](https://github.com/altealo/FNTest/blob/master/AltersReferences/CharlesDickens.md)|[Cross, J.W. *The Works of George Eliot and life.*](https://georgeeliotarchive.org/files/original/51db8460a5c3f7c96ac66c9cdf972b5d.pdf)|
+| [Elizabeth Gaskell](https://github.com/altealo/FNTest/blob/master/AltersReferences/ElizabethGaskell.md)|[Cross, J.W. *The Works of George Eliot and life.*](https://georgeeliotarchive.org/files/original/51db8460a5c3f7c96ac66c9cdf972b5d.pdf)|
 | [Benjamin Jowett](https://github.com/altealo/FNTest/blob/master/AltersReferences/BenjaminJowett.md)|[University of Leeds Letters Database. *From Jowett, Benjamin to Lewes, Mrs (pseudonym: George Eliot; Mary Anne Evans) (1879-12-30).*](http://letters.nialloleary.ie/index.php?letters_function=4&letters_idno=631867)|
 | [Julius Mohl](https://github.com/altealo/FNTest/blob/master/AltersReferences/JuliusMohl.md)|[Simpson, M.C.M. *Letters and recollections of Julius and Mary Mohl.*](https://archive.org/stream/lettersrecollect00simpiala/lettersrecollect00simpiala_djvu.txt)|
 | [Mary Clarke/Mohl](https://github.com/altealo/FNTest/blob/master/AltersReferences/MaryClarke.md)|[Simpson, M.C.M. *Letters and recollections of Julius and Mary Mohl.*](https://archive.org/stream/lettersrecollect00simpiala/lettersrecollect00simpiala_djvu.txt)|
