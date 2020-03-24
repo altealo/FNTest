@@ -9,5 +9,5 @@ Connections with other alters in the Florence Nightingale egonet.
 | [Mary Ann Evans/George Eliot](https://github.com/altealo/FNTest/blob/master/AltersReferences/GeorgeEliot.md)|[Wikipedia. *Harriet Martineau.*](https://en.wikipedia.org/wiki/Harriet_Martineau)|
 | [Richard (Monckton) Milnes](https://github.com/altealo/FNTest/blob/master/AltersReferences/RichardMilnes.md)|[Martineau, H. *Harriet Harriet Martineau’s Autobiography, vol. 1.*](https://oll.libertyfund.org/titles/martineau-harriet-martineaus-autobiography-vol-1?q=Monckton#Martineau_1385-01_259)|
 | [Henry Reeve](https://github.com/altealo/FNTest/blob/master/AltersReferences/HenryReeve.md)|[Texler Segal, M., Demos, V. *Advancing Gender Research from the Nineteenth to the Twenty-First Centuries.*](https://books.google.co.uk/books?id=y6lffSY5rlYC&pg=PA46&lpg=PA46&dq=HENRY+REEVE+AND+FANNY+NIGHTINGALE&source=bl&ots=qCTgTphNpF&sig=ACfU3U1xzXbcW8MPWo_KSEPijbRDUqZaUQ&hl=en&sa=X&ved=2ahUKEwjSjr7L5tzkAhXLShUIHarPDmQQ6AEwC3oECAkQAQ#v=onepage&q=HENRY%20REEVE%20AND%20FANNY%20NIGHTINGALE&f=false)|
-
+| [Julia Smith](https://github.com/altealo/FNTest/blob/master/AltersReferences/JuliaSmith.md)|[Vaughan Cole, B. *Florence Nightingale: One Woman’s Vision.*](http://files.lib.byu.edu/exhibits/nightingale/downloads/HouseofLearningLecture.pdf)|
 
