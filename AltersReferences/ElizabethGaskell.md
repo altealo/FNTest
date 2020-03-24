@@ -10,6 +10,8 @@ Connections with other alters in the Florence Nightingale egonet.
 | [Richard (Monckton) Milnes](https://github.com/altealo/FNTest/blob/master/AltersReferences/RichardMilnes.md)|[Wikipedia. *Richard Monckton Milnes.*](https://en.wikipedia.org/wiki/Richard_Monckton_Milnes,_1st_Baron_Houghton)|
 | [Mary Clarke/Mohl](https://github.com/altealo/FNTest/blob/master/AltersReferences/MaryClarke.md)|[Uglow, J. *Elizabeth Gaskell.*](https://en.wikipedia.org/wiki/Mary_Elizabeth_Mohl)|
 | [Parthenope Nightingale](https://github.com/altealo/FNTest/blob/master/AltersReferences/ParthenopeNightingale.md)|[Ibrahim, S. *An annotated edition of the letters of Arthur Hugh Clough to his American friends: Ralph Waldo Emerson, Charles Eliot Norton, James Norton, James Russell Lowell, Francis James Child and Henry Wadsworth Lonfellow, over the period 1847–1861.*](https://www.dora.dmu.ac.uk/xmlui/bitstream/handle/2086/11468/Susan%20Ibrahim%20e-thesis%20submission.pdf;sequence=1)|
+| [William Rathbone](https://github.com/altealo/FNTest/blob/master/AltersReferences/WilliamRathbone.md)|[Uglow, J. *Elizabeth Gaskell.*](https://books.google.co.uk/books?id=yyhvrv7tl2sC&pg=PT399&lpg=PT399&dq=JULIUS+MOHL+AND+HARRIET+MARTINEAU&source=bl&ots=HyFG8HZU7r&sig=ACfU3U2WkIYIK9cXzH5OmHP8sux9JVDiQg&hl=en&sa=X&ved=2ahUKEwjqiOnrkN7kAhUXRBUIHScKCbUQ6AEwBnoECAYQAQ#v=onepage&q=JULIUS%20MOHL%20AND%20HARRIET%20MARTINEAU&f=false)|
+
 
 
 
