@@ -8,6 +8,6 @@ Connections with other alters in the Florence Nightingale egonet.
 | [Fanny Nightingale](https://github.com/altealo/FNTest/blob/master/AltersReferences/FannyNightingale.md)  |[Wikipedia. *Bonham Carter family.*](https://en.wikipedia.org/wiki/Bonham_Carter_family)|
 | [Parthenope Nightingale](https://github.com/altealo/FNTest/blob/master/AltersReferences/ParthenopeNightingale.md)  |[Wikipedia. *Bonham Carter family.*](https://en.wikipedia.org/wiki/Bonham_Carter_family)|
 | [William Nightingale](https://github.com/altealo/FNTest/blob/master/AltersReferences/WilliamNightingale.md)  |[Wikipedia. *Bonham Carter family.*](https://en.wikipedia.org/wiki/Bonham_Carter_family)|
-| [Angelique Lucille Pringle](https://github.com/altealo/FNTest/blob/master/AltersReferences/AngeliqueLucillePringle.md)  |[British Library. *Nightingale, Public health and Victorian society, Parts 1-4*](https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2834.2003.00375.x)|
+| [Angelique Lucille Pringle](https://github.com/altealo/FNTest/blob/master/AltersReferences/AngeliqueLucillePringle.md)  |[British Library. *Nightingale, Public health and Victorian society, Parts 1-4*](http://www.ampltd.co.uk/digital_guides/nightingale_parts_1_to_4/documents/Nightingale1-4.pdf)|
 | [Patty Smith](https://github.com/altealo/FNTest/blob/master/AltersReferences/PattySmith.md)  |[Wikipedia. *Bonham Carter family.*](https://en.wikipedia.org/wiki/Bonham_Carter_family)|
 
