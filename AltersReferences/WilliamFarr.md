@@ -12,7 +12,7 @@ Connections with other alters in the Florence Nightingale egonet.
 | [Ada Lovelace](https://github.com/altealo/FNTest/blob/master/AltersReferences/AdaLovelace.md)  |[Hollings, C., Martin, U., Rice, A. *The early mathematical education of Ada Lovelace.*](https://ora.ox.ac.uk/objects/uuid:727585d0-0269-4d45-9b38-c129500afde3/download_file?file_format=pdf&safe_filename=The%2Bearly%2Bmathematical%2Beducation%2Bof%2BAda%2BLovelace.pdf&type_of_work=Journal+article)|
 | [Adolphe Quetelet](https://github.com/altealo/FNTest/blob/master/AltersReferences/AdolpheQuetelet.md)  |[Diamond, M., Stone, M. *Nightingale on Quetelet.*](https://www.jstor.org/stable/2982160?seq=1)|
 | [Dr John Sutherland](https://github.com/altealo/FNTest/blob/master/AltersReferences/JohnSutherland.md)  |[Diamond, M., Stone, M. *Nightingale on Quetelet.*](https://www.jstor.org/stable/2982160?seq=1)|
-| [Sir Alexander Tulloch](https://github.com/altealo/FNTest/blob/master/AltersReferences/SirAlexanderTulloch.md)  |[Kopf, E.W. *Florence Nightingale as statistician.*](https://www.jstor.org/stable/2965763?seq=1#metadata_info_tab_contents)|
+| [Sir Alexander Tulloch](https://github.com/altealo/FNTest/blob/master/AltersReferences/AlexanderTulloch.md)  |[Kopf, E.W. *Florence Nightingale as statistician.*](https://www.jstor.org/stable/2965763?seq=1#metadata_info_tab_contents)|
 
 
 
