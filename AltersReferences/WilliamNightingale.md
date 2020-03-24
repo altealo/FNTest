@@ -6,3 +6,6 @@ Connections with other alters in the Florence Nightingale egonet.
 | [Charles Bracebridge](https://github.com/altealo/FNTest/blob/master/AltersReferences/CharlesBracebridge.md)  |[Bostridge, M. *Florence Nightingale: The woman and her legend.*](https://books.google.co.uk/books?id=OsCiBgAAQBAJ&lpg=PR334&pg=PP1#v=onepage&q&f=false)|
 | [Arthur Hugh Clough](https://github.com/altealo/FNTest/blob/master/AltersReferences/ArthurHughClough.md) |[Wikipedia. *Arthur Hugh Clough.*](https://en.wikipedia.org/wiki/Arthur_Hugh_Clough)|
 | [Benjamin Jowett](https://github.com/altealo/FNTest/blob/master/AltersReferences/BenjaminJowett.md) |[Abbot, E., Campbell, L. *The life and letters of Benjamin Jowett, M. A., master of Balliol college, Oxford.*](https://archive.org/details/lifelettersbenja01abboiala/page/432/mode/2up)|
+| [Fanny Nightingale](https://github.com/altealo/FNTest/blob/master/AltersReferences/FannyNightingale.md)  |[Wikipedia. *Florence Nightingale.*](https://en.wikipedia.org/wiki/Florence_Nightingale)|
+| [Parthenope Nightingale](https://github.com/altealo/FNTest/blob/master/AltersReferences/ParthenopeNightingale.md)  |[Wikipedia. *Florence Nightingale.*](https://en.wikipedia.org/wiki/Florence_Nightingale)|
+
