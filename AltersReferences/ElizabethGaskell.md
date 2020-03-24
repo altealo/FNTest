@@ -3,6 +3,7 @@ Connections with other alters in the Florence Nightingale egonet.
 
 | Alter  | Reference|
 | ------------- |------------- |
+| [Hilary Bonham-Carter](https://github.com/altealo/FNTest/blob/master/AltersReferences/HilaryBonhamCarter.md)|[Chapple, J. *Further Letters of Mrs. Gaskell.*](https://books.google.co.uk/books?id=NZaNtFTA6LAC&pg=PA258&lpg=PA258&dq=hilary+bonham+carter+Elizabeth+Gaskell&source=bl&ots=U5_m8SiG8k&sig=ACfU3U37GVYLcYdrCN1gFJJtodC_UJ0fcA&hl=en&sa=X&ved=2ahUKEwj2nafM_IjmAhXHesAKHcGpBTYQ6AEwBHoECAgQAQ#v=onepage&q=hilary%20bonham%20carter%20Elizabeth%20Gaskell&f=false)|
 | [Arthur Hugh Clough](https://github.com/altealo/FNTest/blob/master/AltersReferences/ArthurHughClough.md)|[Ibrahim, S. *An annotated edition of the letters of Arthur Hugh Clough to his American friends: Ralph Waldo Emerson, Charles Eliot Norton, James Norton, James Russell Lowell, Francis James Child and Henry Wadsworth Lonfellow, over the period 1847–1861.*](https://www.dora.dmu.ac.uk/xmlui/bitstream/handle/2086/11468/Susan%20Ibrahim%20e-thesis%20submission.pdf;sequence=1)|
 | [Charles Dickens](https://github.com/altealo/FNTest/blob/master/AltersReferences/CharlesDickens.md)|[*The Charles Dickens Letters Project.*](http://dickensletters.com/letters/elizabeth-gaskell-18-march-1852)|
 | [Mary Ann Evans/George Eliot](https://github.com/altealo/FNTest/blob/master/AltersReferences/GeorgeEliot.md)|[Cross, J.W. *The Works of George Eliot and life.*](https://georgeeliotarchive.org/files/original/51db8460a5c3f7c96ac66c9cdf972b5d.pdf)|
