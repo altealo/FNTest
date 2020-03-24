@@ -2,6 +2,7 @@
 Connections with other alters in the Florence Nightingale egonet.
 | Alter  | Reference|
 | ------------- |------------- |
+| [Charles Bracebridge](https://github.com/altealo/FNTest/blob/master/AltersReferences/CharlesBracebridge.md)  |[The Life and Times of Florence Nightingale blog. *Nightingale fund.*](https://lifeandtimesofflorencenightingale.wordpress.com/crimea-war-2/nightingale-fund/)|
 | [Lady Charlotte Canning](https://github.com/altealo/FNTest/blob/master/AltersReferences/LadyCharlotteCanning.md)  |[Wemyss, T. *The life, letters, and friendships of Richard Monckton Milnes, first lord Houghton.*](https://archive.org/details/lifelettersandf09reidgoog/page/n36/mode/2up/search/canning)|
 | [Sir James Clark](https://github.com/altealo/FNTest/blob/master/AltersReferences/JamesClark.md)|[Wellcome Institute. *Sidney Herbert*](http://www.florence-nightingale-avenging-angel.co.uk/goldie/goldieitems/4_184.htm)|
 | [Arthur Hugh Clough](https://github.com/altealo/FNTest/blob/master/AltersReferences/ArthurHughClough.md)|[Ibrahim, S. *An annotated edition of the letters of Arthur Hugh Clough to his American friends: Ralph Waldo Emerson, Charles Eliot Norton, James Norton, James Russell Lowell, Francis James Child and Henry Wadsworth Lonfellow, over the period 1847–1861.*](https://www.dora.dmu.ac.uk/xmlui/bitstream/handle/2086/11468/Susan%20Ibrahim%20e-thesis%20submission.pdf;sequence=1)|
