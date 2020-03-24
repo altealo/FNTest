@@ -4,6 +4,7 @@ Connections with other alters in the Florence Nightingale egonet.
 | Alter  | Reference|
 | ------------- |------------- |
 | [Dr William Bowman](https://github.com/altealo/FNTest/blob/master/AltersReferences/WilliamBowman.md)  |[Wellcome Institute. *Sidney Herbert.*](http://www.florence-nightingale-avenging-angel.co.uk/goldie/goldieitems/4_184.htm)|
+| [Charles Bracebridge](https://github.com/altealo/FNTest/blob/master/AltersReferences/CharlesBracebridge.md)  |[Wellcome Institute. *Sidney Herbert*](http://www.florence-nightingale-avenging-angel.co.uk/goldie/goldieitems/4_184.htm)|
 | [Arthur Hugh Clough](https://github.com/altealo/FNTest/blob/master/AltersReferences/ArthurHughClough.md) |[Cook, E.T. *The Life of Florence Nightingale vol. 2 of 2.*](http://www.gutenberg.org/files/40058/40058-h/40058-h.htm)|
 | [Alexis Soyer](https://github.com/altealo/FNTest/blob/master/AltersReferences/AlexisSoyer.md) |[Soyer, A. *Soyer's culinary campaign : being historical reminiscences of the late war .*](https://archive.org/stream/soyersculinaryca00soyeuoft/soyersculinaryca00soyeuoft_djvu.txt)|
 | [Sir Alexander Tulloch](https://github.com/altealo/FNTest/blob/master/AltersReferences/AlexanderTulloch.md)  |[Cook, E.T. *The life of Florence Nightingale.*](https://archive.org/details/lifeofflorenceni01cookuoft/page/xxx/mode/2up)|
