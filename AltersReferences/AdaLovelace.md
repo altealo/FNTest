@@ -3,6 +3,7 @@ Connections with other alters in the Florence Nightingale egonet.
 
 | Alter  | Reference|
 | ------------- |------------- |
+| [Dr Elizabeth Blackwell](https://github.com/altealo/FNTest/blob/master/AltersReferences/ElizabethBlackwell.md)|[Blackwell, E. *Pioneer work in opening the medical profession to women. Autobiographical sketches.*](https://digital.library.upenn.edu/women/blackwell/pioneer/pioneer.html)|
 | [Selina Bracebridge](https://github.com/altealo/FNTest/blob/master/AltersReferences/SelinaBracebridge.md)|[McDonald, L. *Florence Nightingale on Society and Politics, Philosophy, Science, Education and Literature.*](https://books.google.co.uk/books?id=2Lvo9XhNIGMC&pg=PA759&lpg=PA759&dq=ada+lovelace+and+blanche+clough&source=bl&ots=k6PwBu6XU8&sig=ACfU3U3buZtiV7SwjYXcqtaR2uGlO7cFVQ&hl=en&sa=X&ved=2ahUKEwi62duLuNLkAhUIY8AKHWXHCnwQ6AEwCnoECAkQAQ#v=onepage&q=ada%20lovelace%20and%20selina%20bracebridge&f=false)|
 | [Charles Dickens](https://github.com/altealo/FNTest/blob/master/AltersReferences/CharlesDickens.md)|[Sass, S. *Ada Lovelace.*](http://www.math.ucdenver.edu/~jloats/StudentCELEBS/Lovelace_Sass.pdf)|
 | [Dr William Farr](https://github.com/altealo/FNTest/blob/master/AltersReferences/WilliamFarr.md)  |[Hollings, C., Martin, U., Rice, A. *The early mathematical education of Ada Lovelace.*](https://ora.ox.ac.uk/objects/uuid:727585d0-0269-4d45-9b38-c129500afde3/download_file?file_format=pdf&safe_filename=The%2Bearly%2Bmathematical%2Beducation%2Bof%2BAda%2BLovelace.pdf&type_of_work=Journal+article)|
