@@ -5,6 +5,7 @@ Connections with other alters in the Florence Nightingale egonet.
 | ------------- |------------- |
 | [Dr William Bowman](https://github.com/altealo/FNTest/blob/master/AltersReferences/WilliamBowman.md)  |[Wellcome Institute. *Sidney Herbert.*](http://www.florence-nightingale-avenging-angel.co.uk/goldie/goldieitems/4_184.htm)|
 | [Charles Bracebridge](https://github.com/altealo/FNTest/blob/master/AltersReferences/CharlesBracebridge.md)  |[Wellcome Institute. *Sidney Herbert*](http://www.florence-nightingale-avenging-angel.co.uk/goldie/goldieitems/4_184.htm)|
+| [Sir James Clark](https://github.com/altealo/FNTest/blob/master/AltersReferences/JamesClark.md)  |[Wellcome Institute. *Sidney Herbert*](http://www.florence-nightingale-avenging-angel.co.uk/goldie/goldieitems/4_184.htm)|
 | [Arthur Hugh Clough](https://github.com/altealo/FNTest/blob/master/AltersReferences/ArthurHughClough.md) |[Cook, E.T. *The Life of Florence Nightingale vol. 2 of 2.*](http://www.gutenberg.org/files/40058/40058-h/40058-h.htm)|
 | [Sidney Herbert](https://github.com/altealo/FNTest/blob/master/AltersReferences/SidneyHerbert.md)  |[Wellcome Institute. *Sidney Herbert*](http://www.florence-nightingale-avenging-angel.co.uk/goldie/goldieitems/4_184.htm)|
 | [Richard Monckton Milnes](https://github.com/altealo/FNTest/blob/master/AltersReferences/RichardMilnes.md)  |[Wellcome Institute. *Sidney Herbert.*](http://www.florence-nightingale-avenging-angel.co.uk/goldie/goldieitems/4_184.htm)|
