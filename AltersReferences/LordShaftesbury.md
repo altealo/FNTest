@@ -1,4 +1,4 @@
-# Lord Shaftesbury connections
+# Lord Shaftesbury/Ashley connections
 Connections with other alters in the Florence Nightingale egonet.
 
 | Alter  | Reference|
