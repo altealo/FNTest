@@ -1,5 +1,5 @@
 # Social Network Analysis - Florence Nightingale
-Supplementary material complementing submitted article to Significance magazine on the social networks of Florence Nightingale to celebrate the bicentenary of her birth. 
+Supplementary material complementing article in Significance magazine (April 2020) on the social networks of Florence Nightingale to celebrate the bicentenary of her birth: https://rss.onlinelibrary.wiley.com/doi/10.1111/1740-9713.01375
 
 # Contributors
 [Altea Lorenzo](https://github.com/altealo)
