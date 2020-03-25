@@ -17,5 +17,5 @@
 | [William Rathbone](https://github.com/altealo/FNTest/blob/master/AltersReferences/WilliamRathbone.md)  |[McDonald, L. *Florence Nightingale: Extending Nursing: Collected Works of Florence Nightingale.*](https://books.google.co.uk/books?id=tYrZAgAAQBAJ&pg=PA258&lpg=PA258&dq=hilary+bonham+carter+william+rathbone&source=bl&ots=WDQ9fa-vkR&sig=ACfU3U0tZQZOgxFdOLaPlOeh211uG1jCBQ&hl=en&sa=X&ved=2ahUKEwiy2tzTzojmAhXSOcAKHXD9A9EQ6AEwAHoECAkQAQ#v=onepage&q=hilary%20bonham%20carter%20william%20rathbone&f=false)|
 | [Julia Smith](https://github.com/altealo/FNTest/blob/master/AltersReferences/JuliaSmith.md)   |[Bostridge, M. *Florence Nightingale: The woman and her legend.*](https://books.google.co.uk/books?id=OsCiBgAAQBAJ&lpg=PR334&pg=PP1#v=onepage&q&f=false)|
 | [Mai Smith](https://github.com/altealo/FNTest/blob/master/AltersReferences/MaiSmith.md)   |[Bostridge, M. *Florence Nightingale: The woman and her legend.*](https://books.google.co.uk/books?id=OsCiBgAAQBAJ&lpg=PR334&pg=PP1#v=onepage&q&f=false)|
-
-
+| [Octavius Smith](https://github.com/altealo/FNTest/blob/master/AltersReferences/OctaviusSmith.md)   |[Bostridge, M. *Florence Nightingale: The woman and her legend.*](https://books.google.co.uk/books?id=OsCiBgAAQBAJ&lpg=PR334&pg=PP1#v=onepage&q&f=false)|
+| [Patty Smith](https://github.com/altealo/FNTest/blob/master/AltersReferences/PattySmith.md)   |[Bostridge, M. *Florence Nightingale: The woman and her legend.*](https://books.google.co.uk/books?id=OsCiBgAAQBAJ&lpg=PR334&pg=PP1#v=onepage&q&f=false)|
