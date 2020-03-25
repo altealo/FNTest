@@ -9,4 +9,4 @@ Connections with other alters in the Florence Nightingale egonet.
 | [Benjamin Jowett](https://github.com/altealo/FNTest/blob/master/AltersReferences/BenjaminJowett.md) |[Abbot, E., Campbell, L. *The life and letters of Benjamin Jowett, M. A., master of Balliol college, Oxford.*](https://archive.org/details/lifelettersbenja01abboiala/page/432/mode/2up)|
 | [Fanny Nightingale](https://github.com/altealo/FNTest/blob/master/AltersReferences/FannyNightingale.md)  |[Wikipedia. *Florence Nightingale.*](https://en.wikipedia.org/wiki/Florence_Nightingale)|
 | [Parthenope Nightingale](https://github.com/altealo/FNTest/blob/master/AltersReferences/ParthenopeNightingale.md)  |[Wikipedia. *Florence Nightingale.*](https://en.wikipedia.org/wiki/Florence_Nightingale)|
-
+|[Helen Richardson](https://github.com/altealo/FNTest/blob/master/AltersReferences/HelenRichardson.md)|[O'Malley, I.B. *Florence Nightingale, 1820-1856 : a study of her life down to the end of the Crimean war.*](https://archive.org/stream/florencenighting00omal/florencenighting00omal_djvu.txt)|
