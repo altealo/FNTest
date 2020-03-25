@@ -3,6 +3,7 @@ Connections with other alters in the Florence Nightingale egonet.
 
 | Alter  | Reference|
 | ------------- |------------- |
+| [Hilary Bonham-Carter](https://github.com/altealo/FNTest/blob/master/AltersReferences/HilaryBonhamCarter.md)  |[Simpson, M.C.M. *Letters and recollections of Julius and Mary Mohl.*](https://archive.org/details/lettersrecollect00simpiala/page/n8/mode/2up)|
 | [Charles Bracebridge](https://github.com/altealo/FNTest/blob/master/AltersReferences/CharlesBracebridge.md)  |[McDonald, L. *Florence Nightingale on Women, Medicine, Midwifery and Prostitution.*](https://books.google.co.uk/books?id=Yuh0CwAAQBAJ&pg=PR11&lpg=PR11&dq=julius+mohl+and+charles+bracebridge&source=bl&ots=DOBLqz_Xo9&sig=ACfU3U25SerzdrMuqGjPUirFJ9oTvBFcDQ&hl=en&sa=X&ved=2ahUKEwik3OKQhd7kAhV-REEAHXUECNYQ6AEwA3oECAgQAQ#v=onepage&q=mohl%20bracebridge&f=false)|
 | [Charles Dickens](https://github.com/altealo/FNTest/blob/master/AltersReferences/CharlesDickens.md)|[Hopkins, A.B. *Dickens and Mrs. Gaskell.*](https://www.jstor.org/stable/3815978?seq=1)|
  | [Mary Ann Evans/ George Eliot](https://github.com/altealo/FNTest/blob/master/AltersReferences/GeorgeEliot.md)|[Simpson, M.C.M. *Letters and recollections of Julius and Mary Mohl.*](https://archive.org/stream/lettersrecollect00simpiala/lettersrecollect00simpiala_djvu.txt)|
