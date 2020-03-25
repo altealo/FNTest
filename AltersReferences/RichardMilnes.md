@@ -2,6 +2,7 @@
 Connections with other alters in the Florence Nightingale egonet.
 | Alter  | Reference|
 | ------------- |------------- |
+| [Hilary Bonham-Carter](https://github.com/altealo/FNTest/blob/master/AltersReferences/HilaryBonhamCarter.md)  |[Cook, E.T. *The Life of Florence Nightingale vol.1.*](http://www.gutenberg.org/files/40057/40057-h/40057-h.htm)|
 | [Charles Bracebridge](https://github.com/altealo/FNTest/blob/master/AltersReferences/CharlesBracebridge.md)  |[The Life and Times of Florence Nightingale blog. *Nightingale fund.*](https://lifeandtimesofflorencenightingale.wordpress.com/crimea-war-2/nightingale-fund/)|
 | [Lady Charlotte Canning](https://github.com/altealo/FNTest/blob/master/AltersReferences/LadyCharlotteCanning.md)  |[Wemyss, T. *The life, letters, and friendships of Richard Monckton Milnes, first lord Houghton.*](https://archive.org/details/lifelettersandf09reidgoog/page/n36/mode/2up/search/canning)|
  [Sir Edwin Chadwick](https://github.com/altealo/FNTest/blob/master/AltersReferences/EdwinChadwick.md)  |[Finer, S.E. *The Life and Times of Sir Edwin Chadwick.*](https://books.google.co.uk/books?id=nOQcDQAAQBAJ&pg=PT599&lpg=PT599&dq=The+Life+and+Times+of+Sir+Edwin+Chadwick+milnes&source=bl&ots=dRadYlQCMK&sig=ACfU3U1We5WY7QZrI46CmO0HjpAAf28RKg&hl=en&sa=X&ved=2ahUKEwjbh6DWro_mAhXZPsAKHdShCB8Q6AEwAXoECAoQAQ#v=onepage&q=The%20Life%20and%20Times%20of%20Sir%20Edwin%20Chadwick%20milnes&f=false)|
