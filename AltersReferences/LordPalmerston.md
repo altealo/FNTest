@@ -14,3 +14,5 @@ Connections with other alters in the Florence Nightingale egonet.
 | [Parthenope Nightingale](https://github.com/altealo/FNTest/blob/master/AltersReferences/ParthenopeNightingale.md) |[Vaughan Cole, B. *Florence Nightingale: One Woman’s Vision.*](http://files.lib.byu.edu/exhibits/nightingale/downloads/HouseofLearningLecture.pdf)|
 | [William Nightingale](https://github.com/altealo/FNTest/blob/master/AltersReferences/WilliamNightingale.md) |[Vaughan Cole, B. *Florence Nightingale: One Woman’s Vision.*](http://files.lib.byu.edu/exhibits/nightingale/downloads/HouseofLearningLecture.pdf)|
  [Dr John Sutherland](https://github.com/altealo/FNTest/blob/master/AltersReferences/JohnSutherland.md) |[Wikipedia. *John Sutherland (physician).*](https://en.wikipedia.org/wiki/John_Sutherland_(physician))|
+  [Queen Victoria](https://github.com/altealo/FNTest/blob/master/AltersReferences/QueenVictoria.md) |[*Sir James Clark.*](http://www.unofficialroyalty.com/sir-james-clark/)|
+
