@@ -17,7 +17,7 @@ Connections with other alters in the Florence Nightingale egonet.
 |[Helen Richardson](https://github.com/altealo/FNTest/blob/master/AltersReferences/HelenRichardson.md)|[O'Malley, I.B. *Florence Nightingale, 1820-1856 : a study of her life down to the end of the Crimean war.*](https://archive.org/stream/florencenighting00omal/florencenighting00omal_djvu.txt)|
 | [Jane Smith](https://github.com/altealo/FNTest/blob/master/AltersReferences/JaneSmith.md)  |[Wikipedia. *Florence Nightingale.*](https://en.wikipedia.org/wiki/Florence_Nightingale)|
 | [Julia Smith](https://github.com/altealo/FNTest/blob/master/AltersReferences/JuliaSmith.md)  |[Wikipedia. *Florence Nightingale.*](https://en.wikipedia.org/wiki/Florence_Nightingale)|
-| [Mai Smith](https://github.com/altealo/FNTest/blob/master/AltersReferences/MaiSmith.md)  |[Wellcome Library. *Letters to Florence Nightingale's parents.*](https://wellcomelibrary.org/item/b18309513)|
+| [Mai Smith](https://github.com/altealo/FNTest/blob/master/AltersReferences/MaiSmith.md)  |[Wikipedia. *Florence Nightingale.*](https://en.wikipedia.org/wiki/Florence_Nightingale)|
 | [Octavius Smith](https://github.com/altealo/FNTest/blob/master/AltersReferences/OctaviusSmith.md)  |[Wikipedia. *Florence Nightingale.*](https://en.wikipedia.org/wiki/Florence_Nightingale)|
 
 
