@@ -3,6 +3,7 @@ Connections with other alters in the Florence Nightingale egonet.
 | Alter  | Reference|
 | ------------- |------------- |
 | [Lady Charlotte Canning](https://github.com/altealo/FNTest/blob/master/AltersReferences/LadyCharlotteCanning.md)  |[Cracknell, E. *Clemency Canning: forgotten servant of empire.*](https://www.stgeorges-windsor.org/clemency-canning-forgotten-servant-of-empire/)|
+| [Sir James Clark](https://github.com/altealo/FNTest/blob/master/AltersReferences/JamesClark.md)|[*Sir James Clark.*](http://www.unofficialroyalty.com/sir-james-clark/)|
 | [Charles Dickens](https://github.com/altealo/FNTest/blob/master/AltersReferences/CharlesDickens.md)|[Dickens, C. *Speeches: Literary and Social.*](http://www.dickens-online.info/speeches-literary-and-social-page42.html)|
 | [Sir Douglas Strutt Galton](https://github.com/altealo/FNTest/blob/master/AltersReferences/DouglasStruttGalton.md)  |[Wikisource. *Douglas Strutt Galton.*](https://en.wikisource.org/wiki/Galton,_Douglas_Strutt_(DNB01))|
 | [Sir Francis Galton](https://github.com/altealo/FNTest/blob/master/AltersReferences/SirFrancisGalton.md)  |[Galton, F. *Memories of my life.*](http://galton.org/cgi-bin/searchImages/galton/search/books/memories/pages/memories_0171.htm)|
