@@ -9,6 +9,6 @@ Connections with other alters in the Florence Nightingale egonet.
 | [Sidney Herbert](https://github.com/altealo/FNTest/blob/master/AltersReferences/SidneyHerbert.md)  |[Wellcome Institute. *Sidney Herbert*](http://www.florence-nightingale-avenging-angel.co.uk/goldie/goldieitems/4_184.htm)|
 | [Sir Francis Galton](https://github.com/altealo/FNTest/blob/master/AltersReferences/SirFrancisGalton.md)  |[ Grzybowski, A. *A modest scholar*](https://www.eurotimes.org/a-modest-scholar/)|
 | [Sir John McNeill](https://github.com/altealo/FNTest/blob/master/AltersReferences/SirJohnMcNeill.md)  |[Wellcome Institute. *Sidney Herbert*](http://www.florence-nightingale-avenging-angel.co.uk/goldie/goldieitems/4_184.htm)|
-| [Richard Milnes](https://github.com/altealo/FNTest/blob/master/AltersReferences/RichardMilnes.md)  |[Wellcome Institute. *Sidney Herbert*](http://www.florence-nightingale-avenging-angel.co.uk/goldie/goldieitems/4_184.htm)|
+| [Richard (Monckton) Milnes](https://github.com/altealo/FNTest/blob/master/AltersReferences/RichardMilnes.md)  |[Wellcome Institute. *Sidney Herbert*](http://www.florence-nightingale-avenging-angel.co.uk/goldie/goldieitems/4_184.htm)|
 
 
