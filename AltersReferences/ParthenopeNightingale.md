@@ -15,6 +15,9 @@ Connections with other alters in the Florence Nightingale egonet.
 | [William Nightingale](https://github.com/altealo/FNTest/blob/master/AltersReferences/WilliamNightingale.md)  |[Wikipedia. *Florence Nightingale.*](https://en.wikipedia.org/wiki/Florence_Nightingale)|
 | [Henry Reeve](https://github.com/altealo/FNTest/blob/master/AltersReferences/HenryReeve.md)|[Cook, E.T. *The Life of Florence Nightingale vol. 1 of 2*](https://www.gutenberg.org/files/40057/40057-h/40057-h.htm)|
 |[Helen Richardson](https://github.com/altealo/FNTest/blob/master/AltersReferences/HelenRichardson.md)|[O'Malley, I.B. *Florence Nightingale, 1820-1856 : a study of her life down to the end of the Crimean war.*](https://archive.org/stream/florencenighting00omal/florencenighting00omal_djvu.txt)|
-
+| [Jane Smith](https://github.com/altealo/FNTest/blob/master/AltersReferences/JaneSmith.md)  |[Wikipedia. *Florence Nightingale.*](https://en.wikipedia.org/wiki/Florence_Nightingale)|
+| [Julia Smith](https://github.com/altealo/FNTest/blob/master/AltersReferences/JuliaSmith.md)  |[Wikipedia. *Florence Nightingale.*](https://en.wikipedia.org/wiki/Florence_Nightingale)|
+| [Mai Smith](https://github.com/altealo/FNTest/blob/master/AltersReferences/MaiSmith.md)  |[Wellcome Library. *Letters to Florence Nightingale's parents.*](https://wellcomelibrary.org/item/b18309513)|
+| [Octavius Smith](https://github.com/altealo/FNTest/blob/master/AltersReferences/OctaviusSmith.md)  |[Wikipedia. *Florence Nightingale.*](https://en.wikipedia.org/wiki/Florence_Nightingale)|
 
 
