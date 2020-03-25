@@ -2,6 +2,7 @@
 Connections with other alters in the Florence Nightingale egonet.
 | Alter  | Reference|
 | ------------- |------------- |
+| [Henry/Harry Bonham-Carter](https://github.com/altealo/FNTest/blob/master/AltersReferences/HenryBonhamCarter.md)|[Wemyss, T. *The life, letters, and friendships of Richard Monckton Milnes, first lord Houghton.*](https://archive.org/details/lifelettersandf09reidgoog/page/n264)|
 | [Hilary Bonham-Carter](https://github.com/altealo/FNTest/blob/master/AltersReferences/HilaryBonhamCarter.md)  |[Cook, E.T. *The Life of Florence Nightingale vol.1.*](http://www.gutenberg.org/files/40057/40057-h/40057-h.htm)|
 | [Charles Bracebridge](https://github.com/altealo/FNTest/blob/master/AltersReferences/CharlesBracebridge.md)  |[The Life and Times of Florence Nightingale blog. *Nightingale fund.*](https://lifeandtimesofflorencenightingale.wordpress.com/crimea-war-2/nightingale-fund/)|
 | [Lady Charlotte Canning](https://github.com/altealo/FNTest/blob/master/AltersReferences/LadyCharlotteCanning.md)  |[Wemyss, T. *The life, letters, and friendships of Richard Monckton Milnes, first lord Houghton.*](https://archive.org/details/lifelettersandf09reidgoog/page/n36/mode/2up/search/canning)|
