@@ -3,6 +3,7 @@ Connections with other alters in the Florence Nightingale egonet.
 | Alter  | Reference|
 | ------------- |------------- |
 | [Charles Bracebridge](https://github.com/altealo/FNTest/blob/master/AltersReferences/CharlesBracebridge.md)  |[Laughton, J.K. *Memoirs of the life and correspondence of Henry Reeve*](https://archive.org/details/memoirslifeandc01reevgoog/page/n9/mode/2up)|
+| [Selina Bracebridge](https://github.com/altealo/FNTest/blob/master/AltersReferences/SelinaBracebridge.md)  |[Laughton, J.K. *Memoirs of the life and correspondence of Henry Reeve*](https://archive.org/details/memoirslifeandc01reevgoog/page/n9/mode/2up)|
 | [Charles Dickens](https://github.com/altealo/FNTest/blob/master/AltersReferences/CharlesDickens.md)|[Laughton, J.K. *Memoirs of the life and correspondence of Henry Reeve*](https://archive.org/details/memoirslifeandc01reevgoog/page/n198)|
 | [Sir James Clark](https://github.com/altealo/FNTest/blob/master/AltersReferences/JamesClark.md)|[*Memoirs of the Life and Correspondence of Henry Reeve, C.B., D.C.L., vol. 5.*](https://novel.onlinehere.net/chapter/memoirs-of-the-life-and-correspondence-of-henry-reeve-cb-dcl/part-5-151763.html)|
 | [John Macdonald](https://github.com/altealo/FNTest/blob/master/AltersReferences/JohnMacdonald.md)|[*War Correspondents in the Crimean*](https://www.countryjoe.com/nightingale/warcorr.htm)|
