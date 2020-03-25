@@ -2,6 +2,7 @@
 Connections with other alters in the Florence Nightingale egonet.
 | Alter  | Reference|
 | ------------- |------------- |
+| [Dr William Bowman](https://github.com/altealo/FNTest/blob/master/AltersReferences/WilliamBowman.md)  |[Wellcome Institute. *Sidney Herbert*](http://www.florence-nightingale-avenging-angel.co.uk/goldie/goldieitems/4_184.htm)|
 | [Charles Bracebridge](https://github.com/altealo/FNTest/blob/master/AltersReferences/CharlesBracebridge.md)|[Wellcome Institute. *Sidney Herbert*](http://www.florence-nightingale-avenging-angel.co.uk/goldie/goldieitems/4_184.htm)|
 | [Lady Charlotte Canning](https://github.com/altealo/FNTest/blob/master/AltersReferences/LadyCharlotteCanning.md)|[Shepherd, J.A. *The Crimean Doctors: A History of the British Medical Services in the Crimean War, Volume 2.*](https://books.google.co.uk/books?id=7GeAtb71p1wC&pg=PA441&lpg=PA441&dq=james+clark+and+Lady+Canning&source=bl&ots=VZzwcbqasd&sig=ACfU3U3vm2BGtQiO-IS5RQpONDPxXh4lIw&hl=en&sa=X&ved=2ahUKEwjz1Nmml-zkAhWLSxUIHW44DsYQ6AEwGHoECAYQAQ#v=onepage&q=james%20clark%20and%20Lady%20Canning&f=false)|
 | [Arthur Hugh Clough](https://github.com/altealo/FNTest/blob/master/AltersReferences/ArthurHughClough.md)|[Vicinus, M. *Ever Yours, Florence Nightingale: Selected Letters.*](https://books.google.co.uk/books?id=jaK2lF6mfE8C&pg=PA197&lpg=PA197&dq=arthur+clough+and+william+bowman&source=bl&ots=cRWWptu_S0&sig=ACfU3U2e0kPV6O05d3i6j_Ncq1psWbjzxQ&hl=en&sa=X&ved=2ahUKEwjGiNvo7NjkAhVYi1wKHS8PBLgQ6AEwDHoECAkQAQ#v=onepage&q=arthur%20clough%20and%20william%20bowman&f=false)|
