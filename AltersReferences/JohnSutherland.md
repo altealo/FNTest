@@ -7,4 +7,4 @@ Connections with other alters in the Florence Nightingale egonet.
 | [Dr William Farr](https://github.com/altealo/FNTest/blob/master/AltersReferences/WilliamFarr.md)  |[Diamond, M., Stone, M. *Nightingale on Quetelet.*](https://www.jstor.org/stable/2982160?seq=1)|
 | [Sir Douglas Strutt Galton](https://github.com/altealo/FNTest/blob/master/AltersReferences/DouglasStruttGalton.md)  |[Wikisource. *Douglas Strutt Galton.*](https://en.wikisource.org/wiki/Galton,_Douglas_Strutt_(DNB01))|
 | [Alexis Soyer](https://github.com/altealo/FNTest/blob/master/AltersReferences/AlexisSoyer.md) |[Soyer, A. *Soyer's culinary campaign : being historical reminiscences of the late war .*](https://archive.org/stream/soyersculinaryca00soyeuoft/soyersculinaryca00soyeuoft_djvu.txt)|
-
+| [Queen Victoria](https://github.com/altealo/FNTest/blob/master/AltersReferences/QueenVictoria.md)|[Halliday, S. *Commentary: Dr John Sutherland, Vibrio cholerae and ‘predisposing causes’.*](https://academic.oup.com/ije/article/31/5/912/745790)|
