@@ -2,6 +2,7 @@
 Connections with other alters in the Florence Nightingale egonet.
 | Alter  | Reference|
 | ------------- |------------- |
+| [Henry/Harry Bonham-Carter](https://github.com/altealo/FNTest/blob/master/AltersReferences/HenryBonhamCarter.md)  |[The Life and Times of Florence Nightingale. *Bonham Carter.*](https://lifeandtimesofflorencenightingale.wordpress.com/family-history-2/bonham-carter/)|
 | [Hilary Bonham-Carter](https://github.com/altealo/FNTest/blob/master/AltersReferences/HilaryBonhamCarter.md)   |[Bostridge, M. *Florence Nightingale: The woman and her legend.*](https://books.google.co.uk/books?id=OsCiBgAAQBAJ&lpg=PR334&pg=PP1#v=onepage&q&f=false)|
 | [Arthur Hugh Clough](https://github.com/altealo/FNTest/blob/master/AltersReferences/ArthurHughClough.md)|[Wikipedia. *Arthur Hugh Clough.*](https://en.wikipedia.org/wiki/Arthur_Hugh_Clough)|
 | [Mary Ann Evans/George Eliot](https://github.com/altealo/FNTest/blob/master/AltersReferences/GeorgeEliot.md)|[Reef, C. *Florence Nightingale: The Courageous Life of the Legendary Nurse.*](https://books.google.co.uk/books?id=1HY1CwAAQBAJ&pg=PA68&lpg=PA68&dq=mai+smith+mary+ann+evans+george+eliot&source=bl&ots=SZmCKGYqyb&sig=ACfU3U0wgiwruT7t5QX5oAPwtSV2j1wwiA&hl=en&sa=X&ved=2ahUKEwjy2b727LDoAhWfThUIHV6FA4EQ6AEwAHoECAsQAQ#v=onepage&q=mai%20smith%20mary%20ann%20evans%20george%20eliot&f=false)|
