@@ -13,6 +13,7 @@ Connections with other alters in the Florence Nightingale egonet.
 | [Fanny Nightingale](https://github.com/altealo/FNTest/blob/master/AltersReferences/FannyNightingale.md) |[Vaughan Cole, B. *Florence Nightingale: One Woman’s Vision.*](http://files.lib.byu.edu/exhibits/nightingale/downloads/HouseofLearningLecture.pdf)|
 | [Parthenope Nightingale](https://github.com/altealo/FNTest/blob/master/AltersReferences/ParthenopeNightingale.md) |[Vaughan Cole, B. *Florence Nightingale: One Woman’s Vision.*](http://files.lib.byu.edu/exhibits/nightingale/downloads/HouseofLearningLecture.pdf)|
 | [William Nightingale](https://github.com/altealo/FNTest/blob/master/AltersReferences/WilliamNightingale.md) |[Vaughan Cole, B. *Florence Nightingale: One Woman’s Vision.*](http://files.lib.byu.edu/exhibits/nightingale/downloads/HouseofLearningLecture.pdf)|
+| [Lord Panmure](https://github.com/altealo/FNTest/blob/master/AltersReferences/LordPanmure.md) |[Wikipedia. *Fox Maule-Ramsay, 11th Earl of Dalhousie.*](https://en.wikipedia.org/wiki/Fox_Maule-Ramsay,_11th_Earl_of_Dalhousie)|
  [Dr John Sutherland](https://github.com/altealo/FNTest/blob/master/AltersReferences/JohnSutherland.md) |[Wikipedia. *John Sutherland (physician).*](https://en.wikipedia.org/wiki/John_Sutherland_(physician))|
   [Queen Victoria](https://github.com/altealo/FNTest/blob/master/AltersReferences/QueenVictoria.md) |[*Sir James Clark.*](http://www.unofficialroyalty.com/sir-james-clark/)|
 
