@@ -2,7 +2,7 @@
 Connections with other alters in the Florence Nightingale egonet.
 | Alter  | Reference|
 | ------------- |------------- |
-| [William Bowman](https://github.com/altealo/FNTest/blob/master/AltersReferences/WilliamBowman.md)  |[Wellcome Institute. *Sidney Herbert*](http://www.florence-nightingale-avenging-angel.co.uk/goldie/goldieitems/4_184.htm)|
+| [Dr William Bowman](https://github.com/altealo/FNTest/blob/master/AltersReferences/WilliamBowman.md)  |[Wellcome Institute. *Sidney Herbert*](http://www.florence-nightingale-avenging-angel.co.uk/goldie/goldieitems/4_184.htm)|
 | [Selina Bracebridge](https://github.com/altealo/FNTest/blob/master/AltersReferences/SelinaBracebridge.md)  |[Wikipedia. *Selina Bracebridge.*](https://en.wikipedia.org/wiki/Selina_Bracebridge)|
 | [Edwin Chadwick](https://github.com/altealo/FNTest/blob/master/AltersReferences/EdwinChadwick.md)|[Diamond, M. & Stone, M. *Nightingale on Quetelet.*](https://www.jstor.org/stable/2982160?seq=1#page_scan_tab_contents)|
 | [Sir James Clark](https://github.com/altealo/FNTest/blob/master/AltersReferences/JamesClark.md)|[Wellcome Institute. *Sidney Herbert*](http://www.florence-nightingale-avenging-angel.co.uk/goldie/goldieitems/4_184.htm)|
