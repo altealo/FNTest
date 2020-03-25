@@ -21,6 +21,7 @@ Connections with other alters in the Florence Nightingale egonet.
 | [Patty Smith](https://github.com/altealo/FNTest/blob/master/AltersReferences/PattySmith.md)  |[Wikipedia. *Florence Nightingale.*](https://en.wikipedia.org/wiki/Florence_Nightingale)|
 | [Parthenope Nightingale](https://github.com/altealo/FNTest/blob/master/AltersReferences/ParthenopeNightingale.md)  |[Wellcome Library. *Letters to Fanny Nightingale from Parthenope Nightingale and others.*](https://wellcomelibrary.org/item/b1925331x)|
 | [William Nightingale](https://github.com/altealo/FNTest/blob/master/AltersReferences/WilliamNightingale.md)  |[Wikipedia. *Florence Nightingale.*](https://en.wikipedia.org/wiki/Florence_Nightingale)|
+| [Julia Ward Howe](https://github.com/altealo/FNTest/blob/master/AltersReferences/JuliaWardHowe.md)|[Showalter, E. *Florence Nightingale’s Egyptian artifacts to go on display.*](http://www.thehistoryblog.com/archives/46973)|
 
 
 
