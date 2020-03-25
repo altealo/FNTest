@@ -19,5 +19,5 @@ Connections with other alters in the Florence Nightingale egonet.
 | [Julia Smith](https://github.com/altealo/FNTest/blob/master/AltersReferences/JuliaSmith.md)  |[Wikipedia. *Florence Nightingale.*](https://en.wikipedia.org/wiki/Florence_Nightingale)|
 | [Mai Smith](https://github.com/altealo/FNTest/blob/master/AltersReferences/MaiSmith.md)  |[Wikipedia. *Florence Nightingale.*](https://en.wikipedia.org/wiki/Florence_Nightingale)|
 | [Octavius Smith](https://github.com/altealo/FNTest/blob/master/AltersReferences/OctaviusSmith.md)  |[Wikipedia. *Florence Nightingale.*](https://en.wikipedia.org/wiki/Florence_Nightingale)|
-
+| [Julia Ward Howe](https://github.com/altealo/FNTest/blob/master/AltersReferences/JuliaWardHowe.md)|[Showalter, E. *Florence Nightingale’s Egyptian artifacts to go on display.*](http://www.thehistoryblog.com/archives/46973)|
 
